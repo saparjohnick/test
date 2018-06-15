@@ -1,0 +1,18 @@
+{
+  "pageLoadTimeout": 600000,
+  "requestTimeout": 10000,
+  "responseTimeout": 60000,
+  "viewportWidth": 1280,
+  "viewportHeight": 960,
+  "fixturesFolder": "spec/cypress/fixtures",
+  "integrationFolder": "spec/cypress/integrations",
+  "screenshotsFolder": "tmp/cypress/screenshots",
+  "videosFolder": "tmp/cypress/videos",
+  "supportFile": "spec/cypress/support",
+  "pluginsFile": "spec/cypress/plugins",
+  "env": {
+    "SERVER_PORT": 30001
+  },
+  "chromeWebSecurity": false,
+  "projectId": "sqtnay"
+}
