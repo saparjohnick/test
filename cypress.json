@@ -15,5 +15,6 @@
   },
   "chromeWebSecurity": false,
   "projectId": "sqtnay",
-  "supportFile": false
+  "supportFile": false,
+  "pluginsFile": false
 }
