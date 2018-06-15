@@ -14,5 +14,6 @@
     "SERVER_PORT": 30001
   },
   "chromeWebSecurity": false,
-  "projectId": "sqtnay"
+  "projectId": "sqtnay",
+  "supportFile": false
 }
